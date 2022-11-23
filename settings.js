@@ -47,7 +47,7 @@ global.owner = ['94711333235']
 global.ownertag = '94787992853' //ur tag number
 global.botnumber = '94787992853' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
-global.ig = "https://chat.whatsapp.com/D3hLmJjG4bl8eCwgYAL4xG" //your theme url which will be displayed on whatsapp
+global.ig = "https://chat.whatsapp.com/JrFY6H7cSCM4gEVyhOSCwE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://chat.whatsapp.com/D3hLmJjG4bl8eCwgYAL4xG
 " //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
